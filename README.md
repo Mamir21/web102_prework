@@ -10,20 +10,19 @@ Time spent: **6** hours spent in total
 
 The following **required** functionality is completed:
 
-* [ ] The introduction section explains the background of the company and how many games remain unfunded.
-* [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+* [ X ] The introduction section explains the background of the company and how many games remain unfunded.
+* [ X ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+* [ X ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+* [ X ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/user-attachments/assets/9564b3aa-bb1c-4e2a-a8a7-ae090657e860' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with ...
 [ScreenToGif](https://www.screentogif.com/)
-
 
 ## Notes
 
@@ -31,7 +30,7 @@ The project was a great experience, working with the already given template wher
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Muhammad Amir]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
